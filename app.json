@@ -1,6 +1,7 @@
 {
   "name": "JazzMusic",
   "description": "JazzMusic Diciptakan Untuk Menyembuhkan Kegabutan Manusia Telegram.",
+  "logo": "https://telegra.ph/file/5d704893537dd991b2691.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/jerryadisaputra/JazzMusic",
   "stack": "container",
