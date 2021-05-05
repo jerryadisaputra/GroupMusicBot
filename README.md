@@ -1,4 +1,4 @@
-<h2 align="centre">Music Play Bot 🎵</h2>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5526448.gif" width="581" height="101" alt="JazzMusic" /></a>
 
 <p align="center">
   <img 
