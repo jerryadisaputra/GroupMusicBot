@@ -38,7 +38,7 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**Group Music Player Online ✅**""",
+      await message.reply_text("""**JazzMusic Group ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
