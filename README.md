@@ -1,7 +1,8 @@
 <h2 align="centre">Music Play Bot 🎵</h2>
 
 <p align="center">
-  <https://images.cooltext.com/5526448.gif">
+  <img 
+   https://images.cooltext.com/5526448.gif">
 </p>
 
 <h3>Requirements 📝</h3>
