@@ -1,8 +1,8 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5526448.gif" width="581" height="101" alt="JazzMusic" /></a>
 
 <p align="center">
-  <img 
-   https://images.cooltext.com/5526448.gif">
+
+
 </p>
 
 <h3>Requirements 📝</h3>
